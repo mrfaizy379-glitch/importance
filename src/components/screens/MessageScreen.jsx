@@ -7,9 +7,7 @@ export default function MessageScreen({ onNext }) {
 
     const greeting = "To my favorite person,";
 
-    const mainMessage = `I wanted to write this down because sometimes just saying it isn't enough. You need to know exactly how important you are to me.
-Before you came along, things were fine. But with you? Everything is just brighter. Your laugh is my favorite sound, and your presence is my absolute safest space.
-I know life gets crazy, but I see you. I see how hard you try and how beautiful your soul genuinely is. You are the heartbeat of my happiest days.`;
+    const mainMessage = `Happy friendship anniversary My dear bestfriend💞It's hard to believe... today marks 1 whole year since we met! This long-distance friendship feels so special & strong  Ever since I met you, you gave my life a new direction and filled it with so much positive energy I can never forget your guidance, and the way you always encouraged me Thank you for being there, supporting me in every little thing Our chats... our funny memories - they'll always stay fresh in my heart💞✨ "You're not just my best friend; you're the strength behind my smile and the inspiration behind my dreams." Our bond is truly the strongest connection No one can ever replace your place in my life - that's why you're so priceless to me💞Thank you for being such an amazing person. I'm so lucky to have you in my life Likes And one last thing... You're the absolute BEST! Friends forever 💞✨`;
 
     const signOff = "Yours entirely, always.";
 
